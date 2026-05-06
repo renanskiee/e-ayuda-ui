@@ -1,0 +1,145 @@
+E-Ayuda Management and Monitoring System
+
+Prompt for Figma Make:
+
+Design a modern government web login page for a system called E-Ayuda Management and Monitoring System. The layout must be split into two sections: left side for system branding and right side for the login form.
+
+The interface should look professional, clean, and suitable for a municipal government system used by social welfare staff.
+
+Use a modern dashboard design style, soft colors, simple icons, rounded cards, and good spacing.
+
+Layout Structure
+
+Create a two-column layout that fills the entire screen.
+
+Left Side (System Branding Section)
+
+The left side should occupy about 50% of the screen and serve as the visual identity area of the system.
+
+Include the following elements:
+
+Large Municipal Logo or System Logo centered vertically.
+
+System Title in large bold text:
+
+E-Ayuda Management and Monitoring System
+
+Subtitle below the title:
+
+“Municipal Assistance Management Platform”
+
+Short description text:
+
+“This system supports the efficient management, evaluation, and distribution of social assistance programs for residents across all barangays.”
+
+Optional decorative elements:
+
+• light abstract shapes
+• subtle background pattern
+• soft gradient background
+
+Recommended color style:
+
+Light blue or government-style gradient background.
+
+This side should look official, clean, and trustworthy.
+
+Right Side (Login Form Section)
+
+The right side contains the login card where users enter their credentials.
+
+Place a centered login card with soft shadow and rounded corners.
+
+Card Title:
+
+User Login
+
+Subtitle text:
+
+“Access your account to continue”
+
+Login Form Fields
+
+Inside the login card include:
+
+Username field
+
+Password field with show / hide password icon
+
+Role Selection
+
+Add a dropdown field labeled:
+
+Select User Role
+
+Options:
+
+BSWDO – Barangay Social Welfare Officer
+MSWDO Sector Staff
+MSWDO Head – Focal Person
+
+This role determines which dashboard the user will access after login.
+
+Sector Selection (Conditional)
+
+If the role selected is MSWDO Sector Staff, display another dropdown:
+
+Select Sector
+
+Options:
+
+Senior Citizen Sector
+PWD Sector
+Solo Parent Sector
+Women Sector
+Youth Sector
+Disaster Affected Families Sector
+
+Additional Login Options
+
+Below the form fields include:
+
+Remember Me checkbox
+
+Forgot Password link
+
+Primary button:
+
+Login
+
+Login Behavior
+
+When the user clicks Login, the system verifies the credentials and selected role.
+
+Redirect behavior:
+
+BSWDO → Barangay Dashboard
+MSWDO Sector Staff → Sector Dashboard
+MSWDO Head → Municipal Supervisor Dashboard
+
+If login fails, display an error message:
+
+“Invalid username or password.”
+
+Footer Area
+
+Add a small footer text below the login card:
+
+“Municipal Social Welfare and Development Office”
+
+Optional text:
+
+“Powered by the LGU Digital Assistance Platform”
+
+UI Style
+
+Design style should be:
+
+Modern government dashboard style
+Light background with blue accents
+Rounded input fields
+Soft shadows
+Clean typography
+Professional and minimal design
+
+The login page should look like a real government system used by municipal staff.
